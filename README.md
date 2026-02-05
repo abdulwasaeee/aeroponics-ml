@@ -3,6 +3,7 @@
 This project uses data from an aeroponic-style greenhouse system to **predict wastewater discharge** using machine learning.
 
 The goal is simple:
+
 👉 understand when wastewater happens
 
 👉 learn how data-driven models can help reduce it  
