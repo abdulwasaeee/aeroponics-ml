@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/wasae/aeroponics-ml/notebooks/mlruns/904808026913916802/models/m-27aa897c7dbe4a368b16b661bbf0d6ac/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-27aa897c7dbe4a368b16b661bbf0d6ac
+model_size_bytes: 247370
+model_uuid: m-27aa897c7dbe4a368b16b661bbf0d6ac
+prompts: null
+run_id: 2a812bbee9a5456498426299b0bb3186
+utc_time_created: '2026-02-05 03:16:14.449664'

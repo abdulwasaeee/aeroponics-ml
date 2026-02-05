@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/wasae/aeroponics-ml/notebooks/mlruns/904808026913916802/models/m-27aa897c7dbe4a368b16b661bbf0d6ac/artifacts
+creation_timestamp: 1770261374352
+experiment_id: '904808026913916802'
+last_updated_timestamp: 1770261377830
+model_id: m-27aa897c7dbe4a368b16b661bbf0d6ac
+model_type: null
+name: model
+source_run_id: 2a812bbee9a5456498426299b0bb3186
+status: 2
+status_message: null
