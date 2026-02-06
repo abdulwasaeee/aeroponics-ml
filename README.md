@@ -104,7 +104,7 @@ Shows how model experiments were logged and compared.
 ### Project Structure
 Overview of how the project is organized.
 
-📁 <img width="273" height="279" alt="file-structure" src="https://github.com/user-attachments/assets/96df1d03-bf04-40ab-8d25-04660f502bba" />
+ <img width="273" height="279" alt="file-structure" src="https://github.com/user-attachments/assets/96df1d03-bf04-40ab-8d25-04660f502bba" />
 
 
 ---
