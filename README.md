@@ -72,7 +72,7 @@ Below are selected visuals to quickly understand the work.
 ### Dataset Overview
 Shows a sample of the cleaned dataset used for modeling.
 
-📁 <img width="1821" height="826" alt="datasets-sample" src="https://github.com/user-attachments/assets/a937ccde-a892-4b7a-a25d-466467e69ff9" />
+ <img width="1821" height="826" alt="datasets-sample" src="https://github.com/user-attachments/assets/a937ccde-a892-4b7a-a25d-466467e69ff9" />
 
 
 ---
@@ -80,7 +80,7 @@ Shows a sample of the cleaned dataset used for modeling.
 ### Correlation Analysis
 Shows how environmental factors relate to wastewater.
 
-📁 <img width="629" height="560" alt="correlation-matrix" src="https://github.com/user-attachments/assets/ff9f60a7-1db7-43bf-b393-f115feac028c" />
+ <img width="629" height="560" alt="correlation-matrix" src="https://github.com/user-attachments/assets/ff9f60a7-1db7-43bf-b393-f115feac028c" />
 
 
 ---
@@ -88,7 +88,7 @@ Shows how environmental factors relate to wastewater.
 ### Model Comparison
 Compares performance of different models.
 
-📁 <img width="1663" height="868" alt="model-comparision" src="https://github.com/user-attachments/assets/5bc83f25-2068-4e89-9987-336d21e5f406" />
+ <img width="1663" height="868" alt="model-comparision" src="https://github.com/user-attachments/assets/5bc83f25-2068-4e89-9987-336d21e5f406" />
 
 
 ---
@@ -96,7 +96,7 @@ Compares performance of different models.
 ### Experiment Tracking
 Shows how model experiments were logged and compared.
 
-📁 <img width="1920" height="919" alt="mlflow-tracking" src="https://github.com/user-attachments/assets/d9585a89-6e92-4361-b02e-f3d9bc259392" />
+ <img width="1920" height="919" alt="mlflow-tracking" src="https://github.com/user-attachments/assets/d9585a89-6e92-4361-b02e-f3d9bc259392" />
 
 
 ---
